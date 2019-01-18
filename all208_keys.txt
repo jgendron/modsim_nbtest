@@ -1,0 +1,12 @@
+0	0.0545	algorithm algorithms constraints mts code population objectives fidelity platform computational individual solutions defense shm defender basic perspective prediction players framework 
+1	0.07506	interoperability technologies lvc response simulator industry wave agents gaming cues distributed commercial nuclear operators recommendations phase virtual number thinking extreme 
+2	0.08517	mands program simulation acquisition driving source communications engineering vehicle case defense dod education office environment workforce types customers selection ionosphere 
+3	0.08946	training joint force air system event services operations mission planning systems information exercises cyber data command scenario terrain military forces 
+4	0.85858	simulation paper system design modeling model process approach systems development environment tools support analysis research provide developed models software time 
+5	0.09582	learning content students mobile technology learner education environments stem virginia providing experiences opportunities school classroom instructors learners thinking student teaching 
+6	0.27016	training virtual army skills evaluation assessment tasks performance critical instructional live effective soldiers immersive military community personnel individual feedback world 
+7	0.11601	test aircraft maintenance data control sets device operations technology complex simulated schedule sensors rules life demonstrate line traffic nasa includes 
+8	0.03865	disease model material work strategies animal population planning stress food multiple control tool spread carriers clinical health outbreak economic logistics 
+9	0.10357	data information farming intelligence analytics visualization big predictive language war insights model questions warfare social sources analysis impact industry cultural 
+10	0.12045	study results performance simulation fidelity motion simulator visual effectiveness effect flight mission crew simulators research participants determine strategy model pilot 
+11	0.05899	medical participants models recognition human care access technology tissues research simulated technologies tactical materials speech likelihood vor surgical presented brain 
