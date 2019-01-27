@@ -1,4 +1,4 @@
-# Word Has It: Text Analytics for Topic Modeling of MODSIM Track Papers
+__Word Has It: Text Analytics for Topic Modeling of MODSIM Track Papers__
 _Proceedings of MODSIM World 2019_
 
 
