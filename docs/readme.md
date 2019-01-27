@@ -22,3 +22,13 @@ The GitHub repository for this project contains data prepared for the analysis a
 
 ## Code
 
+### ETL - Scraping metadata from MODSIM webpage
+
+### ETL - Preparing datasets
+
+### Analysis - Clustering
+![Image of CLutering](./images/6b_cossim-bigram.png)
+<
+
+### Anaysis - Topic Modeling
+
