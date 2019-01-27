@@ -4,7 +4,7 @@ __Word Has It: Text Analytics for Topic Modeling of MODSIM Track Papers__
 
 _Proceedings of MODSIM World 2019_
 
-<p align="center"><strong>Abstract</p></strong>
+Abstract
 
 Big data and data science are part of mainstream society, as evidenced by the many articles and social media posts presenting artificial intelligence and autonomous vehicles in diverse contexts. The volume and persistence of these topics show their rise in public interest. MODSIM launched the Analytics and Decision-Making Track in 2014 as recognition of the then burgeoning field of data science and the importance it would have on industry. This leadership decision continues today. On the fifth anniversary of the track, has the addition provided a body of work discernibly different from the simulation tracks?
 
