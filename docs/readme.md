@@ -27,7 +27,18 @@ The GitHub repository for this project contains data prepared for the analysis a
 ### ETL - Preparing datasets
 
 ### Analysis - Clustering
+
+What happens by add
+asdf
+asdf
+asdf
+
+
 <img src="./images/6b_cossim-bigram.png" align="right" width="200" >
+
+wert
+wertw
+ertwert
 
 
 ### Anaysis - Topic Modeling
