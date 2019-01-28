@@ -2,6 +2,8 @@
 
 __Word Has It: Text Analytics for Topic Modeling of MODSIM Track Papers__
 
+_Authors [Jay Gendron](https://www.linkedin.com/in/jaygendron/) and [Gage Morgan](https://www.linkedin.com/in/gagemorgan/)
+
 ## Paper Link
 _Proceedings of MODSIM World 2019_
 
