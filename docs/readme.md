@@ -82,7 +82,7 @@ asdf
 asdf
 
 
-<img src="./images/6b_cossim-bigram.png" align="right" width="200" >
+<img src="./images/6b_cossim-bigram.png" align="left" width="200" >
 
 wert
 wertw
