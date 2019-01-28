@@ -1,8 +1,8 @@
 # The Paper
 
 <p align="center">
-  <strong>Word Has It: Text Analytics for Topic Modeling of MODSIM Track Papers</strong>
-  </p>
+  <strong><h4>Word Has It: Text Analytics for Topic Modeling of MODSIM Track Papers</strong>
+    </h4></p>
 <p align="center">
 <i>Authors: <a href="https://www.linkedin.com/in/jaygendron/">Jay Gendron</a>
   and <a href="https://www.linkedin.com/in/gagemorgan/">Gage Morgan</a></i>
