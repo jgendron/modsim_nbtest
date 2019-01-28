@@ -27,7 +27,7 @@ The GitHub repository for this project contains data prepared for the analysis a
 ### ETL - Preparing datasets
 
 ### Analysis - Clustering
-![Image of CLutering](./images/6b_cossim-bigram.png){:height="36px" width="36px"}
+(./images/6b_cossim-bigram.png)<img src="./images/6b_cossim-bigram.png" align="center" height="48" width="48" >
 
 
 ### Anaysis - Topic Modeling
